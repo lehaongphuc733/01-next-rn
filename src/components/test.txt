@@ -1,0 +1,3 @@
+1. Setup base NextJS (typescript)
+2. Config Ant Design (tranh flick giao dien)
+3. Setup base NextJS (typescript)
